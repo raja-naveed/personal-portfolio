@@ -56,22 +56,22 @@ const ProjectsData = [
   // },
 
   {
-    id: "advice-generator",
+    id: "expense Tracker App",
     img: Advice,
-    name: "Advice Generator App",
-    stack: ["< HTML5 />", "< CSS3 />", "< JavaScript />"],
-    live: "https://rimshub.github.io/javascript-advice-generator/",
+    name: "Expense Tracker App",
+    stack: ["< React />", "< Styled Component />", "< JavaScript />"],
+    live: "https://expense-trcker.netlify.app/",
     source: "https://github.com/rimshub/javascript-advice-generator",
     description:  
-        "This advice generator app using the Advice Slip API. A small and fun app to practice JavaScript and mobile first workflow and CSS3. It has a responsive design and navigation.",
+        "This is a expense tracker app using hooks and states. A small and fun app to practice React.Js. It has functionality to add or remove expenses and manage it .",
   },
 
 
   {
-    id: "todo",
+    id: "pizza",
     img: Todo,
-    name: "JavaScript Todo App",
-    stack: ["< JavaScript />  ", "< Sass />"],
+    name: "Pizza Eccomerce Website with Cart Management (In Progress)", 
+    stack: ["< React Js />  ", "< State management />"],
     live: "https://rimshub.github.io/JavaScript-Todo-App/",
     source: "https://github.com/rimshub/JavaScript-Todo-App",
     description:  
@@ -79,11 +79,11 @@ const ProjectsData = [
   },
 
   {
-    id: "dropdown-nav",
+    id: "Job Vacancy App",
     img: Page,
-    name: "Homepage with dropdown navigation / Figma to React",
+    name: "Job Vacancy App",
     stack: ["< React.js />   ", "< CSS3 />"],
-    live: "https://rimshub.github.io/figma-design-to-reactjs/",
+    live: "https://jobs-vacancies.netlify.app/",
     source: "https://github.com/rimshub/figma-design-to-reactjs",
     description:  
         "This challenge from frontendmentor tested my skills to create dropdown navigation menus, a common pattern on larger sites. It also has some nice basic layout challenge. As a front-end developer, I was able to practice my React.js and CSS3 skills in this project.",

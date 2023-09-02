@@ -86,8 +86,18 @@ const ProjectsData = [
     live: "https://jobs-vacancies.netlify.app/",
     source: "https://github.com/rimshub/figma-design-to-reactjs",
     description:  
-        "This challenge from frontendmentor tested my skills to create dropdown navigation menus, a common pattern on larger sites. It also has some nice basic layout challenge. As a front-end developer, I was able to practice my React.js and CSS3 skills in this project.",
+        "In this app, I build a portal where jobs are displaying and user can apply and create job vacancy. I used React.js to build the website and Tailwind Css for styling. also i used hooks and states to manage the data. ",
   },  
+  {
+    id: "imdb movies app",
+    img: Page,
+    name: "IMDB Movies Clone App",
+    stack: ["< React.js />   ", "< CSS3 />"],
+    live: "https://the-imdb-movies.netlify.app/",
+    source: "https://github.com/rimshub/figma-design-to-reactjs",
+    description:  
+        "'ve implemented this multi page website with React, Custom Css, React Carasoul,React Router, React Hooks, React Context API, . I've used React Router to navigate between pages.",
+  },
    
 ];
 

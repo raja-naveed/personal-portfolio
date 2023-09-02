@@ -13,35 +13,35 @@ import landingPage from './../assets/portfolioImages/url.jpg'
  
 const ProjectsData = [
   {
-    id: "fyp",
+    id: "ecommorce",
     img: Servista,
-    name: "Service Provider Application",
-    stack: ["< RESTful API />", "< Bootstrap v5 />", "< React.js />"],
-    live: "https://www.canva.com/design/DAFoa-GrVg4/6wEhj_I__-QaLI1uQbnzsA/watch?utm_content=DAFoa-GrVg4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink",
-    source: "https://servista.vercel.app/",
+    name: "MERN E-commerce Website",
+    stack: ["< Particle Js />", "< Tailwind css />", "< React.js />"],
+    live: "pending",
+    source: "code",
     description:  
-        "A cross-platform app that connects local service providers with customers. As a full stack developer, I contributed to the development of the app using Flutter, Node.js, Express.js, Next.js and MongoDB. I also worked on the design of the app using Figma. The mobile app is currently in the testing phase and will be launched soon. Web app's frontend is also completed.",
+        "The MERN E-commerce website is a dynamic online marketplace built to deliver a superior shopping experience to users. In my role as a full-stack developer, I contributed significantly to this project, harnessing the power of React, Strapi, Stripe, Node.js, and MongoDB to create a cutting-edge e-commerce platform. The website's core features include product display, seamless Stripe payment integration, and content management capabilities through Strapi CMS",
   }, 
   {
-    id: "rest-countries",
+    id: "metaverse",
     img: RestCountries,
-    name: "REST Countires API",
-    stack: ["< RESTful API />", "< Bootstrap v5 />", "< React.js />"],
-    live: "https://rest-countries-api-rimshub.vercel.app/",
+    name: "MetaVerse Landing Page",
+    stack: ["< Next />", "< Tailwind Css />", "< React.js />"],
+    live: "https://metaverse-next-js-website.vercel.app/",
     source: "https://github.com/rimshub/rest-countries-api",
     description:  
-        "Responsive website which integrates with the REST Countries API to pull country data. You can view the list of all countries and find one via search or by filtering regions. Individual country page, enables you to see further details about the country like border countries. Mobile first workflow and Bootstrap v5 is used to make it responsive.",
+        "Landing-page Metaverse website provides relevent information for users. It has a responsive design and navigation. A large and complex project that required me to plan ahead and break down the work into smaller chunks. I used Next.js to build the website and Tailwind Css for styling and framer motion for animation.",
   },
 
   {
-    id: "space-tourism",
+    id: "portfolio",
     img: SpaceTourism,
-    name: "Space Tourism Website",
-    stack: ["< React.js />", "< CSS3 />"],
-    live: "https://react-space-tourism-website-alpha.vercel.app/",
+    name: "Personal Portfolio v2",
+    stack: ["< React.js />", "< Next.Js />"],
+    live: "https://awesome-portfolioi.netlify.app/",
     source: "https://github.com/rimshub/react-space-tourism-website",
     description:  
-        "Multi-page space tourism website provides relevent information for users. It has a responsive design and navigation. A large and complex project that required me to plan ahead and break down the work into smaller chunks. I used React.js to build the website and CSS3 for styling.",
+        "Multi-page personal portfolio website provides relevent information for users. It has a responsive design and navigation. I used Next.js to build the website and Tailwind css for styling, also i used framer motion for animation and particle js library for particles movement on the page.",
   
   },
   // {

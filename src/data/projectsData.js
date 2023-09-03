@@ -24,7 +24,7 @@ const ProjectsData = [
   }, 
   {
     id: "metaverse",
-    img: RestCountries,
+    img: Servista,
     name: "MetaVerse Landing Page",
     stack: ["< Next />", "< Tailwind Css />", "< React.js />"],
     live: "https://metaverse-next-js-website.vercel.app/",
@@ -35,7 +35,7 @@ const ProjectsData = [
 
   {
     id: "portfolio",
-    img: SpaceTourism,
+    img: Servista,
     name: "Personal Portfolio v2",
     stack: ["< React.js />", "< Next.Js />"],
     live: "https://awesome-portfolioi.netlify.app/",
@@ -57,7 +57,7 @@ const ProjectsData = [
 
   {
     id: "expense Tracker App",
-    img: Advice,
+    img: Servista,
     name: "Expense Tracker App",
     stack: ["< React />", "< Styled Component />", "< JavaScript />"],
     live: "https://expense-trcker.netlify.app/",
@@ -69,7 +69,7 @@ const ProjectsData = [
 
   {
     id: "pizza",
-    img: Todo,
+    img: Servista,
     name: "Pizza Eccomerce Website with Cart Management (In Progress)", 
     stack: ["< React Js />  ", "< State management />"],
     live: "https://rimshub.github.io/JavaScript-Todo-App/",
@@ -80,7 +80,7 @@ const ProjectsData = [
 
   {
     id: "Job Vacancy App",
-    img: Page,
+    img: Servista,
     name: "Job Vacancy App",
     stack: ["< React.js />   ", "< CSS3 />"],
     live: "https://jobs-vacancies.netlify.app/",
@@ -90,7 +90,7 @@ const ProjectsData = [
   },  
   {
     id: "imdb movies app",
-    img: Page,
+    img: Servista,
     name: "IMDB Movies Clone App",
     stack: ["< React.js />   ", "< CSS3 />"],
     live: "https://the-imdb-movies.netlify.app/",
@@ -105,7 +105,7 @@ const InprogressProjectsData = [
    
   {
     id: "url-short",
-    img: landingPage,
+    img: Servista,
     name: "URL shortening API landing page",
     stack: ["< JavaScript />", "< NodeJS />"],
     live: "",
